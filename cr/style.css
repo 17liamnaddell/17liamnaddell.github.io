@@ -16,3 +16,10 @@ body{
    left: 72px; 
    width: 100%; 
 }
+.space2 {
+     position: absolute;
+     top: 115px;
+     left: 72px;
+     width: 100%;
+}
+
