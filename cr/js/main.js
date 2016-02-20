@@ -1,6 +1,6 @@
 'use strict'
 
-console.log("Im wurking);
+console.log("Im wurking");
 
 var c = {
   LukeC : [
