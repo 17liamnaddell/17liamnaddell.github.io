@@ -17,9 +17,17 @@ body{
    width: 100%; 
 }
 .space2 {
-     position: absolute;
-     top: 355px;
-     left: 72px;
-     width: 100%;
+   position: absolute;
+   top: 355px;
+   left: 72px;
+   width: 100%;
 }
+.space2 {
+  position: absolute;
+  top: 355px;
+  left: 72px;
+  width: 100%;
+}
+          
+
 
