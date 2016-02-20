@@ -1,3 +1,7 @@
+'use strict'
+
+console.log("Im wurking);
+
 var c = {
   LukeC : [
     "Luke C",
@@ -16,5 +20,3 @@ var c = {
     "LN",
   ],
 }
-console.log("Im wurking");
-console.log(c.LukeC[0])
