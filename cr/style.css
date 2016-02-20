@@ -34,12 +34,19 @@ body{
    left: 65px;
    width: 100%;
 }
-.space4 {
+.space5 {
    position: absolute;
    top: 215px;
    left: 170px;
    width: 100%;
 }
+.space6 {
+   position: absolute;
+   top: 215px;
+   left: 170px;
+   width: 100%;
+}
+
 
 
           
