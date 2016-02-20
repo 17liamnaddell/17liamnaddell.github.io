@@ -61,7 +61,7 @@ body{
 .space9 {
      position: absolute;
      top: 412px;
-     left: 321px;
+     left: 319px;
      width: 100%;
 }
 .space10 {
@@ -69,5 +69,10 @@ body{
      top: 549px;
      left: 321px;
      width: 100%;
+.space11 {
+      position: absolute;
+      top: 412px;
+      left: 389px;
+      width: 100%;
 }
 
