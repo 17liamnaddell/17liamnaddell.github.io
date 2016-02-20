@@ -13,6 +13,6 @@ body{
 h2 { 
    position: absolute; 
    top: 180px; 
-   left: 25px; 
+   left: 25; 
    width: 100%; 
 }
