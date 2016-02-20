@@ -10,7 +10,7 @@ body{
    width: 100%; /* for IE 6 */
 }
 
-h2 { 
+.space1 { 
    position: absolute; 
    top: 190px; 
    left: 65px; 
