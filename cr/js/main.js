@@ -6,7 +6,7 @@ var c = [
   LukeC[
     "Luke C",
     "LC",
-  ],
+  ]
   ParkerS : [
     "Parker S",
     "PS",
