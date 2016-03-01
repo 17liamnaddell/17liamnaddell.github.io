@@ -3,7 +3,7 @@
 console.log("Im wurking");
 
 var c = [
-  LukeC : [
+  LukeC[
     "Luke C",
     "LC",
   ],
