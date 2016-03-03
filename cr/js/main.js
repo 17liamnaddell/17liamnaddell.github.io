@@ -5,7 +5,7 @@ window.addEventListener('load', chooseCmates())
 console.log("Im wurking");
 
 var c = [
-  {"firstName":"MarinB", "lastName":"MB"}
+  {"firstName":"Test1", "lastName":"TEST2"}
 ]
 
 function chooseCmates() {
