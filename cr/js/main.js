@@ -4,13 +4,11 @@ window.addEventListener('load', chooseCmates())
 
 console.log("Im wurking");
 
-var c = {
- MarinB : [
-  "Im working",
- ],
-}
+var c = [
+  {"name1":"MarinB", "Name2":"MB"}
+]
 
 function chooseCmates() {
   var randomN = Math.floor((Math.random() * 6));
-  console.log(c.MarinB.[0])
+  console.log(c[0].name1)
 }
