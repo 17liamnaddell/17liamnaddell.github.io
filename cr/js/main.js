@@ -2,8 +2,8 @@
 
 console.log("Im wurking");
 
-var c = [
-  LukeC[
+var cmates = {
+  LukeC : [
     "Luke C",
     "LC",
   ]
@@ -27,11 +27,11 @@ var c = [
     "Aaron B",
     "AB",
   ]
-]
+}
 window.addEventListener('load', chooseCmates());
 
 function chooseCmates() {
   var randomN = Math.floor((Math.random() * 6));
-  var c1 = c.[randomN].[0];
+  var c1 = cmates.0.[0];
   console.log(c1);
 }
