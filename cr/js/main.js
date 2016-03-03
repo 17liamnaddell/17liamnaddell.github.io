@@ -6,7 +6,7 @@ var cmates = {
   LukeC : [
     "Luke C",
     "LC",
-  ]
+  ],
   ParkerS : [
     "Parker S",
     "PS",
