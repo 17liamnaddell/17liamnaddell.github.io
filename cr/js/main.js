@@ -5,7 +5,7 @@ window.addEventListener('load', chooseCmates())
 console.log("Im wurking");
 
 var c = {
- "MarinB" : [
+ MarinB : [
   "Im working",
  ],
 }
