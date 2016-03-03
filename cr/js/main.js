@@ -10,5 +10,5 @@ var c = [
 
 function chooseCmates() {
   var randomN = Math.floor((Math.random() * 6));
-  console.log(c[0].firstName);
+  console.log(c[0].lastName);
 }
