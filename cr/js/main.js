@@ -5,10 +5,10 @@ window.addEventListener('load', chooseCmates())
 console.log("Im wurking");
 
 var c = [
-  {"firstName":"Test1", "lastName":"TEST2"}
+  "cmate1": {"firstName":"Test1", "lastName":"TEST2"}
 ]
 
 function chooseCmates() {
   var randomN = Math.floor((Math.random() * 6));
-  console.log(c[0].lastName);
+  console.log(c.cmate1.lastName);
 }
