@@ -1,4 +1,4 @@
-window.addEventListener('load', initialize());
+window.addEventListener('load', initialize);
 
 'use strict'
 
