@@ -10,5 +10,5 @@ var c = [
 
 function initialize() {
   var randomN = Math.floor((Math.random() * 6));
-  console.log(c[0].[1]);
+  console.log(c[0][1]);
 }
