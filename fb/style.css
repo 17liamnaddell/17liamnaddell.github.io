@@ -7,3 +7,8 @@ body{
 #background-img{
   background-attachment: fixed;
 }
+#topbar{
+  background-color: #ffffff;
+  margin: 0px, 0px, 0px, 0px;
+  padding: 0px, 0px, 0px, 0px;
+}
