@@ -10,7 +10,7 @@ body{
 }
 
 #topbar{
-  margin-bottom: 40px;
   margin-top: 0px;
   background-color: #ffffff;
+  padding-bottom: 30px;
 }
