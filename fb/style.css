@@ -3,4 +3,8 @@ body{
   margin-right: 0px;
   margin-top: 0px;
   margin-bottom: 0px;
-} 
+}
+#background-img{
+  background-attachment: fixed;
+  background-image: url("//www.abpan.com/wp-content/uploads/2014/01/folly-beach-sc.jpg");
+}
