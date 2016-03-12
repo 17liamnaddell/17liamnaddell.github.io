@@ -36,5 +36,6 @@ body{
   text-align: center;
   margin-left: 100px;
   margin-right: 100px;
-  
+  opacity: 0.7;
+  filter: alpha(opacity=70); /* :'( <-- tear for people using ie 8(and earlier) */
 }
