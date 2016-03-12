@@ -39,3 +39,7 @@ body{
   opacity: 0.4;
   filter: alpha(opacity=40); /* :'( <-- tear for people using ie 8(and earlier) */
 }
+#Legend{
+  margin-right: 15px;
+  margin-left: 15px;
+}
