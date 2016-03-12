@@ -29,3 +29,7 @@ body{
   margin-top: 187px;
   font-size: 40px;
 }
+#hero-container{
+  background-color: #ffffff;
+  padding-left: 40px;
+}
