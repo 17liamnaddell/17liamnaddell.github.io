@@ -28,10 +28,12 @@ body{
   text-align: center;
   margin-top: 187px;
   font-size: 40px;
+  margin-bottom: 237px;
+
 }
 #hero-container{
   background-color: #ffffff;
   padding-left: 40px;
-  margin-left: 200px;
-
+  margin-left: 100px;
+  margin-right: 100px;
 }
