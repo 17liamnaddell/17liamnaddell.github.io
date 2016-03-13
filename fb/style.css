@@ -36,8 +36,7 @@ body{
   text-align: center;
   margin-left: 100px;
   margin-right: 100px;
-  opacity: 0.4;
-  filter: alpha(opacity=40); /* :'( <-- tear for people using ie 8(and earlier) */
+  background-color: rgba(225, 225, 225, 1);
 }
 #Legend{
   margin-right: 15px;
