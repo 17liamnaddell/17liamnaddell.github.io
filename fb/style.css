@@ -36,7 +36,7 @@ body{
   text-align: center;
   margin-left: 100px;
   margin-right: 100px;
-  background-color: rgba(225, 225, 225, 1);
+  background-color: rgba(225, 225, 225, 0.4);
 }
 #Legend{
   margin-right: 15px;
