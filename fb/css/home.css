@@ -4,7 +4,6 @@ body{
   margin-top: 0px;
   margin-bottom: 0px;
   background-image: url(http://www.abpan.com/wp-content/uploads/2014/01/folly-beach-sc.jpg);
-  background-size: 1100px;
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -58,4 +57,5 @@ body{
 #homeTop{
   margin-top: 0px;
   color: #ffffff;
+  padding-top: 130px;
 }
