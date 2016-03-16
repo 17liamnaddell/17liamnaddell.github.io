@@ -70,5 +70,8 @@ a:hover{
   
 }
 #FBTOPBAR{
-
+  font-family: Papyrus, fantasy;
+  color: #000000;
+  font-size: 12;
+  padding: 5;
 }
