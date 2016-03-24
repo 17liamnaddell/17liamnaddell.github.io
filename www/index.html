@@ -1,0 +1,18 @@
+<!doctype html> 
+<html>
+  <head>
+    <title>We love nano, The world's best text editor</title>
+    <link rel="stylesheet" src="style.css">
+    <link rel="icon" type="image/png" href="assets/jash.png">
+  </head>
+  <body>
+    <script src="js/phaser.js"></script>
+    <script src="js/play.js"></script>
+    <script>
+      var game = new Phaser.Game(320,568);
+      game.state.add('play', DogeDodge.Play);
+      game.state.start('play');
+      console.log("Im bunny")
+    </script>
+  </body>
+</html>
