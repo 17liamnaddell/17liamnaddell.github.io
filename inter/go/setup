@@ -1,0 +1,2 @@
+export GOPATH=$HOME/repos/inter/go
+export PATH=$HOME/repos/inter/bin:$PATH
