@@ -1,2 +1,3 @@
 console.log("shalom");
-document.getElementById("MySpan").InnerHTML = "shalom 2";
+var MySpan = document.getElementById("MySpan")
+MySpan.InnerHTML = "shalom 2";
