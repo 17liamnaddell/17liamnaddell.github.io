@@ -1,3 +1,3 @@
 console.log("shalom");
 var MySpan = document.getElementById("MySpan")
-MySpan.InnerText.replace("shalo 2");
+MySpan.innerText = "shalo 2";
