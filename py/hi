@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+
+import skilstak.colors as c
+import sys
+print(c.r + "hi there, What is your name:")
+name = input()
+print("Hi there, " + name)
