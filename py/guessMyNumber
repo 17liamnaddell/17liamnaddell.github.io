@@ -1,0 +1,21 @@
+#!/usr/bin/env python3
+
+import skilstak.colors as c
+
+def cp(msg):
+    print(c.red + msg + c.magenta)
+def rp(msg):
+    print(c.green + msg + c.magenta)
+
+rp("input a number to be guessed: ")
+imp = input()
+inp = imp
+while True:
+    g = input()
+    if (inp < g):
+        cp("Too high guess again: ")
+    if (g < inp):
+        cp("Too low guess again: ")
+    if (inp == g):
+        break
+rp("you win")
