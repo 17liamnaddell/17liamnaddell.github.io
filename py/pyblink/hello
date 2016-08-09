@@ -3,11 +3,36 @@
 import time
 from termbox import Termbox
 tb = Termbox()
+import termbox
 
-i = 0
-while i < 1000:
-    time.sleep(0.01)
-    tb.change_cell(6,7, 65, 0x01, 0x02)
-    i = i + 1
+class Box():
+    def __init__(self, x, y):
+        self.y = y 
+        self.x = x
+X = 2
+def new_box():
+    X == X+2
+    return Box(X,2)
+box1 = new_box()
+box2 = new_box()
+box3 = new_box()
+box4 = new_box()
+box5 = new_box()
+box6 = new_box()
+box7 = new_box()
+box8 = new_box()
+
+
+def Bchange(time, box_num, char, color1, color2):
+    try:
+        box_num + 0
+        char + ""
+        color1 + 0
+        color2 + 0
+        time + 0
+    except TypeError:
+        tb.close()
+        print('paramater time expects an int, box_num expects a int, char expects string, color1 and color2 expect ints, you input a incorrect character into one or many of these paramaters.')
+        pass
 tb.close()
 
